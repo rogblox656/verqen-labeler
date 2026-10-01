@@ -1,0 +1,60 @@
+{"id": "lbl-001", "text": "The striker scored twice in the second half to seal the win.", "expected_label": "sports"}
+{"id": "lbl-002", "text": "The point guard recorded a triple-double in last night's game.", "expected_label": "sports"}
+{"id": "lbl-003", "text": "Marathon runners crossed the finish line under rainy skies.", "expected_label": "sports"}
+{"id": "lbl-004", "text": "The coach called a timeout with thirty seconds left on the clock.", "expected_label": "sports"}
+{"id": "lbl-005", "text": "Their goalkeeper saved the penalty kick in the final shootout.", "expected_label": "sports"}
+{"id": "lbl-006", "text": "The tennis champion served twelve aces in the opening match.", "expected_label": "sports"}
+{"id": "lbl-007", "text": "A late free throw forced overtime in the playoff semifinal.", "expected_label": "sports"}
+{"id": "lbl-008", "text": "The swimmer broke the national record in the hundred meter freestyle.", "expected_label": "sports"}
+{"id": "lbl-009", "text": "Fans cheered as the underdogs won the championship in extra time.", "expected_label": "sports"}
+{"id": "lbl-010", "text": "The pitcher threw a no-hitter for the first time this season.", "expected_label": "sports"}
+{"id": "lbl-011", "text": "The cyclist sprinted past the pack to claim the yellow jersey.", "expected_label": "sports"}
+{"id": "lbl-012", "text": "The quarterback threw three touchdown passes in the first quarter.", "expected_label": "sports"}
+{"id": "lbl-013", "text": "Lawmakers debated the new immigration bill late into the evening.", "expected_label": "politics"}
+{"id": "lbl-014", "text": "The mayor signed an executive order on affordable housing.", "expected_label": "politics"}
+{"id": "lbl-015", "text": "Voters headed to the polls for the midterm elections.", "expected_label": "politics"}
+{"id": "lbl-016", "text": "The senator blocked the appointment during the committee hearing.", "expected_label": "politics"}
+{"id": "lbl-017", "text": "The prime minister reshuffled the cabinet after the scandal.", "expected_label": "politics"}
+{"id": "lbl-018", "text": "Campaign volunteers knocked on doors ahead of the primaries.", "expected_label": "politics"}
+{"id": "lbl-019", "text": "The referendum on electoral reform divided the country.", "expected_label": "politics"}
+{"id": "lbl-020", "text": "Diplomats resumed peace talks after months of stalemate.", "expected_label": "politics"}
+{"id": "lbl-021", "text": "The opposition leader delivered a fiery speech in parliament.", "expected_label": "politics"}
+{"id": "lbl-022", "text": "The governor vetoed the budget proposed by the legislature.", "expected_label": "politics"}
+{"id": "lbl-023", "text": "Protesters gathered outside the capitol to demand reform.", "expected_label": "politics"}
+{"id": "lbl-024", "text": "The party convention nominated its presidential candidate.", "expected_label": "politics"}
+{"id": "lbl-025", "text": "The new phone chip doubles battery life on a single charge.", "expected_label": "technology"}
+{"id": "lbl-026", "text": "Developers released a patch for the critical security flaw.", "expected_label": "technology"}
+{"id": "lbl-027", "text": "The startup unveiled a faster language model for code completion.", "expected_label": "technology"}
+{"id": "lbl-028", "text": "Cloud providers reported outages across three regions overnight.", "expected_label": "technology"}
+{"id": "lbl-029", "text": "The laptop's fanless design keeps the processor cool under load.", "expected_label": "technology"}
+{"id": "lbl-030", "text": "A security researcher disclosed a flaw in the password manager.", "expected_label": "technology"}
+{"id": "lbl-031", "text": "The browser update blocks third party tracking cookies by default.", "expected_label": "technology"}
+{"id": "lbl-032", "text": "Engineers rolled out the new inference engine to production.", "expected_label": "technology"}
+{"id": "lbl-033", "text": "The smartwatch tracks sleep stages with improved sensor accuracy.", "expected_label": "technology"}
+{"id": "lbl-034", "text": "Open source contributors merged the long awaited database feature.", "expected_label": "technology"}
+{"id": "lbl-035", "text": "The graphics card delivers higher frame rates at lower power.", "expected_label": "technology"}
+{"id": "lbl-036", "text": "The company deprecated its legacy application programming interface.", "expected_label": "technology"}
+{"id": "lbl-037", "text": "The sequel earned record box office receipts on opening weekend.", "expected_label": "entertainment"}
+{"id": "lbl-038", "text": "The band announced a world tour with twenty stadium dates.", "expected_label": "entertainment"}
+{"id": "lbl-039", "text": "The streaming series was renewed for a third season.", "expected_label": "entertainment"}
+{"id": "lbl-040", "text": "The actor won best leading role at the awards ceremony.", "expected_label": "entertainment"}
+{"id": "lbl-041", "text": "The director's new thriller topped the weekend box office charts.", "expected_label": "entertainment"}
+{"id": "lbl-042", "text": "Fans lined up for hours to meet the bestselling fantasy author.", "expected_label": "entertainment"}
+{"id": "lbl-043", "text": "The comedy special drops on the streaming platform next friday.", "expected_label": "entertainment"}
+{"id": "lbl-044", "text": "The studio cast a newcomer for the lead in the book adaptation.", "expected_label": "entertainment"}
+{"id": "lbl-045", "text": "The album debuted at number one with over a million streams.", "expected_label": "entertainment"}
+{"id": "lbl-046", "text": "The musical's broadway run was extended through the summer.", "expected_label": "entertainment"}
+{"id": "lbl-047", "text": "The video game won game of the year at the award ceremony.", "expected_label": "entertainment"}
+{"id": "lbl-048", "text": "The celebrity chef opened a second restaurant downtown.", "expected_label": "entertainment"}
+{"id": "lbl-049", "text": "The central bank raised interest rates again this quarter.", "expected_label": "finance"}
+{"id": "lbl-050", "text": "Shares plunged after the company missed earnings forecasts.", "expected_label": "finance"}
+{"id": "lbl-051", "text": "The startup closed a series b round at a billion dollar valuation.", "expected_label": "finance"}
+{"id": "lbl-052", "text": "Inflation cooled to its lowest level in two years.", "expected_label": "finance"}
+{"id": "lbl-053", "text": "The bank warned of rising loan defaults among households.", "expected_label": "finance"}
+{"id": "lbl-054", "text": "Analysts upgraded the stock after the strong revenue beat.", "expected_label": "finance"}
+{"id": "lbl-055", "text": "The dividend yield looks attractive to income investors.", "expected_label": "finance"}
+{"id": "lbl-056", "text": "Bond yields climbed as traders priced in tighter policy.", "expected_label": "finance"}
+{"id": "lbl-057", "text": "The merger was approved by antitrust regulators this week.", "expected_label": "finance"}
+{"id": "lbl-058", "text": "The retailer's profit margin shrank amid heavy discounting.", "expected_label": "finance"}
+{"id": "lbl-059", "text": "Currency traders reacted sharply to the weak jobs report.", "expected_label": "finance"}
+{"id": "lbl-060", "text": "The pension fund expanded its allocation to index funds.", "expected_label": "finance"}
